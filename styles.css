@@ -1,0 +1,178 @@
+.purple-bg {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  bottom: 0;
+  right: 0;
+  width: 1440px;
+  height: 596px;
+  background-color: #87509c;
+}
+
+.green-bg {
+  position: absolute;
+  top: 596px;
+  width: 1440px;
+  left: 0px;
+  right: 0px;
+  height: 747px;
+  background-color: #17c2a4;
+}
+
+.logo{
+  position: absolute;
+  left: 210px;
+  top: 60px;
+  bottom: 0;
+  right: 0;
+}
+
+.hrefs {
+  font-size: 16px;
+  line-height: 18px;
+  color: white;
+  font-weight: 400;
+  font-family: "Titillium Web";
+}
+
+.home {
+  padding: 10px;
+  font-size: 16px;
+  line-height: 18px;
+  color: white;
+  font-weight: 400;
+  font-family: "Titillium Web";
+  background-color: #643a79;
+  border-radius: 4px;
+}
+
+.hithere {
+  position: absolute;
+  top: 220px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  font-size: 42px;
+  line-height: 49px;
+  color: #f7f3ea;
+  font-weight: 700;
+  font-family: "Titillium Web";
+  text-align: center;
+}
+
+.workwithus {
+  position: absolute;
+  top: 380px;
+  left: 625px;
+  border-radius: 4px;
+  background-color: #eb7d4b;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  letter-spacing: 0px;
+  line-height: 26px;
+  color: #ffffff;
+  font-weight: 600;
+  font-family: "Titillium Web";
+  display: inline-block;
+  font-size: 16px;
+}
+
+.servicesweprovide {
+  padding-top: 115px;
+  font-size: 40px;
+  letter-spacing: 4px;
+  line-height: 30px;
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Titillium Web";
+  text-align: center;
+}
+
+.weareworking {
+  padding-top: 30px;
+  font-size: 18px;
+  letter-spacing: 0px;
+  line-height: 26px;
+  color: #ffffff;
+  font-weight: 400;
+  font-family: "Titillium Web";
+  text-align: center;
+}
+
+.servicesnames {
+  position: absolute;
+  top: 550px;
+  font-size: 24px;
+  letter-spacing: 0px;
+  line-height: 18px;
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Titillium Web";
+}
+
+.servicesdescriptions {
+  position: absolute;
+  top: 585px;
+  font-size: 16px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: #ffffff;
+  font-weight: 300;
+  font-family: "Titillium Web";
+}
+
+.greybg {
+  position: absolute;
+  left: 0px;
+  right:0px;
+  bottom: 0px;
+  top: 1342px;
+  width: 1440px;
+  height: 914px;
+  background-color: #e7f1f8;
+}
+
+.meetourteam {
+  margin-top: 120px;
+  font-size: 41px;
+  letter-spacing: 4px;
+  line-height: 30px;
+  color: #3c4761;
+  font-weight: 700;
+  font-family: "Titillium Web";
+  text-align: center;
+}
+
+.mugshot {
+  margin-top: 80px;
+}
+
+.teamprofs {
+  position: absolute;
+  top: 590px;
+  font-size: 16px;
+  letter-spacing: 0px;
+  line-height: 18px;
+  color: #30bae7;
+  font-weight: 400;
+  font-family: "Titillium Web";
+}
+
+.teamdescriptions {
+  position: absolute;
+  top: 615px;
+  font-size: 16px;
+  letter-spacing: 0px;
+  line-height: 24px;
+  color: #3c4761;
+  font-weight: 300;
+  font-family: "Titillium Web";
+}
+
+.socialnetwork {
+  position: absolute;
+  top: 757px;
+}
